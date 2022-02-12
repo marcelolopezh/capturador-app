@@ -1,0 +1,19 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "frontend-capturador-vue",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "server": {
+    "allowNavigation": []
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
